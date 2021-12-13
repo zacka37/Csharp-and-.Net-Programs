@@ -1,0 +1,30 @@
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/ImprovedObjectPosCalc/bin/Debug/net5.0/ImprovedObjectPosCalc.deps.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/ImprovedObjectPosCalc/bin/Debug/net5.0/ImprovedObjectPosCalc.runtimeconfig.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/ImprovedObjectPosCalc/bin/Debug/net5.0/ImprovedObjectPosCalc.runtimeconfig.dev.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/ImprovedObjectPosCalc/bin/Debug/net5.0/ImprovedObjectPosCalc.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/ImprovedObjectPosCalc/bin/Debug/net5.0/ref/ImprovedObjectPosCalc.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/ImprovedObjectPosCalc/bin/Debug/net5.0/ImprovedObjectPosCalc.pdb
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/ImprovedObjectPosCalc/obj/Debug/net5.0/ImprovedObjectPosCalc.csproj.AssemblyReference.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/ImprovedObjectPosCalc/obj/Debug/net5.0/ImprovedObjectPosCalc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/ImprovedObjectPosCalc/obj/Debug/net5.0/ImprovedObjectPosCalc.AssemblyInfoInputs.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/ImprovedObjectPosCalc/obj/Debug/net5.0/ImprovedObjectPosCalc.AssemblyInfo.cs
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/ImprovedObjectPosCalc/obj/Debug/net5.0/ImprovedObjectPosCalc.csproj.CoreCompileInputs.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/ImprovedObjectPosCalc/obj/Debug/net5.0/ImprovedObjectPosCalc.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/ImprovedObjectPosCalc/obj/Debug/net5.0/ref/ImprovedObjectPosCalc.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/ImprovedObjectPosCalc/obj/Debug/net5.0/ImprovedObjectPosCalc.pdb
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/ImprovedObjectPosCalc/obj/Debug/net5.0/ImprovedObjectPosCalc.genruntimeconfig.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/ImprovedObjectPosCalc/bin/Debug/net5.0/ImprovedObjectPosCalc.deps.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/ImprovedObjectPosCalc/bin/Debug/net5.0/ImprovedObjectPosCalc.runtimeconfig.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/ImprovedObjectPosCalc/bin/Debug/net5.0/ImprovedObjectPosCalc.runtimeconfig.dev.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/ImprovedObjectPosCalc/bin/Debug/net5.0/ImprovedObjectPosCalc.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/ImprovedObjectPosCalc/bin/Debug/net5.0/ref/ImprovedObjectPosCalc.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/ImprovedObjectPosCalc/bin/Debug/net5.0/ImprovedObjectPosCalc.pdb
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/ImprovedObjectPosCalc/obj/Debug/net5.0/ImprovedObjectPosCalc.csproj.AssemblyReference.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/ImprovedObjectPosCalc/obj/Debug/net5.0/ImprovedObjectPosCalc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/ImprovedObjectPosCalc/obj/Debug/net5.0/ImprovedObjectPosCalc.AssemblyInfoInputs.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/ImprovedObjectPosCalc/obj/Debug/net5.0/ImprovedObjectPosCalc.AssemblyInfo.cs
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/ImprovedObjectPosCalc/obj/Debug/net5.0/ImprovedObjectPosCalc.csproj.CoreCompileInputs.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/ImprovedObjectPosCalc/obj/Debug/net5.0/ImprovedObjectPosCalc.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/ImprovedObjectPosCalc/obj/Debug/net5.0/ref/ImprovedObjectPosCalc.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/ImprovedObjectPosCalc/obj/Debug/net5.0/ImprovedObjectPosCalc.pdb
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/ImprovedObjectPosCalc/obj/Debug/net5.0/ImprovedObjectPosCalc.genruntimeconfig.cache
