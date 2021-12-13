@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tiQfsqj9bEZR3vwM9iv7+EYGtwsGxrpPmlBhLMo50uGKAIsWOnYR0DAUNYv1KcYPyPk7Z9se+rZzzLya2SLZug==",
+  "success": true,
+  "projectFilePath": "/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/LINQPractice/LINQPractice.csproj",
+  "expectedPackageFiles": [
+    "/Users/zackaugustine/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/zackaugustine/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

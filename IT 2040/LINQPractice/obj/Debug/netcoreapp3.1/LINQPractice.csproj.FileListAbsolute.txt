@@ -1,0 +1,37 @@
+/Users/dalemusser/Desktop/LINQPractice/obj/Debug/netcoreapp3.1/LINQPractice.csprojAssemblyReference.cache
+/Users/dalemusser/Desktop/LINQPractice/obj/Debug/netcoreapp3.1/LINQPractice.AssemblyInfoInputs.cache
+/Users/dalemusser/Desktop/LINQPractice/obj/Debug/netcoreapp3.1/LINQPractice.AssemblyInfo.cs
+/Users/dalemusser/Desktop/LINQPractice/bin/Debug/netcoreapp3.1/LINQPractice
+/Users/dalemusser/Desktop/LINQPractice/bin/Debug/netcoreapp3.1/LINQPractice.deps.json
+/Users/dalemusser/Desktop/LINQPractice/bin/Debug/netcoreapp3.1/LINQPractice.runtimeconfig.json
+/Users/dalemusser/Desktop/LINQPractice/bin/Debug/netcoreapp3.1/LINQPractice.runtimeconfig.dev.json
+/Users/dalemusser/Desktop/LINQPractice/bin/Debug/netcoreapp3.1/LINQPractice.dll
+/Users/dalemusser/Desktop/LINQPractice/bin/Debug/netcoreapp3.1/LINQPractice.pdb
+/Users/dalemusser/Desktop/LINQPractice/obj/Debug/netcoreapp3.1/LINQPractice.dll
+/Users/dalemusser/Desktop/LINQPractice/obj/Debug/netcoreapp3.1/LINQPractice.pdb
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/LINQPractice/bin/Debug/netcoreapp3.1/LINQPractice.deps.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/LINQPractice/bin/Debug/netcoreapp3.1/LINQPractice.runtimeconfig.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/LINQPractice/bin/Debug/netcoreapp3.1/LINQPractice.runtimeconfig.dev.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/LINQPractice/bin/Debug/netcoreapp3.1/LINQPractice.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/LINQPractice/bin/Debug/netcoreapp3.1/LINQPractice.pdb
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/LINQPractice/obj/Debug/netcoreapp3.1/LINQPractice.csproj.AssemblyReference.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/LINQPractice/obj/Debug/netcoreapp3.1/LINQPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/LINQPractice/obj/Debug/netcoreapp3.1/LINQPractice.AssemblyInfoInputs.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/LINQPractice/obj/Debug/netcoreapp3.1/LINQPractice.AssemblyInfo.cs
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/LINQPractice/obj/Debug/netcoreapp3.1/LINQPractice.csproj.CoreCompileInputs.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/LINQPractice/obj/Debug/netcoreapp3.1/LINQPractice.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/LINQPractice/obj/Debug/netcoreapp3.1/LINQPractice.pdb
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/LINQPractice/obj/Debug/netcoreapp3.1/LINQPractice.genruntimeconfig.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/LINQPractice/bin/Debug/netcoreapp3.1/LINQPractice.deps.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/LINQPractice/bin/Debug/netcoreapp3.1/LINQPractice.runtimeconfig.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/LINQPractice/bin/Debug/netcoreapp3.1/LINQPractice.runtimeconfig.dev.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/LINQPractice/bin/Debug/netcoreapp3.1/LINQPractice.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/LINQPractice/bin/Debug/netcoreapp3.1/LINQPractice.pdb
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/LINQPractice/obj/Debug/netcoreapp3.1/LINQPractice.csproj.AssemblyReference.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/LINQPractice/obj/Debug/netcoreapp3.1/LINQPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/LINQPractice/obj/Debug/netcoreapp3.1/LINQPractice.AssemblyInfoInputs.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/LINQPractice/obj/Debug/netcoreapp3.1/LINQPractice.AssemblyInfo.cs
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/LINQPractice/obj/Debug/netcoreapp3.1/LINQPractice.csproj.CoreCompileInputs.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/LINQPractice/obj/Debug/netcoreapp3.1/LINQPractice.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/LINQPractice/obj/Debug/netcoreapp3.1/LINQPractice.pdb
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/LINQPractice/obj/Debug/netcoreapp3.1/LINQPractice.genruntimeconfig.cache
