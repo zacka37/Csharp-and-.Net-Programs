@@ -1,0 +1,30 @@
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Pets/bin/Debug/net5.0/Pets.deps.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Pets/bin/Debug/net5.0/Pets.runtimeconfig.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Pets/bin/Debug/net5.0/Pets.runtimeconfig.dev.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Pets/bin/Debug/net5.0/Pets.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Pets/bin/Debug/net5.0/ref/Pets.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Pets/bin/Debug/net5.0/Pets.pdb
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Pets/obj/Debug/net5.0/Pets.csproj.AssemblyReference.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Pets/obj/Debug/net5.0/Pets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Pets/obj/Debug/net5.0/Pets.AssemblyInfoInputs.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Pets/obj/Debug/net5.0/Pets.AssemblyInfo.cs
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Pets/obj/Debug/net5.0/Pets.csproj.CoreCompileInputs.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Pets/obj/Debug/net5.0/Pets.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Pets/obj/Debug/net5.0/ref/Pets.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Pets/obj/Debug/net5.0/Pets.pdb
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Pets/obj/Debug/net5.0/Pets.genruntimeconfig.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Pets (Using classes)/bin/Debug/net5.0/Pets.deps.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Pets (Using classes)/bin/Debug/net5.0/Pets.runtimeconfig.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Pets (Using classes)/bin/Debug/net5.0/Pets.runtimeconfig.dev.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Pets (Using classes)/bin/Debug/net5.0/Pets.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Pets (Using classes)/bin/Debug/net5.0/ref/Pets.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Pets (Using classes)/bin/Debug/net5.0/Pets.pdb
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Pets (Using classes)/obj/Debug/net5.0/Pets.csproj.AssemblyReference.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Pets (Using classes)/obj/Debug/net5.0/Pets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Pets (Using classes)/obj/Debug/net5.0/Pets.AssemblyInfoInputs.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Pets (Using classes)/obj/Debug/net5.0/Pets.AssemblyInfo.cs
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Pets (Using classes)/obj/Debug/net5.0/Pets.csproj.CoreCompileInputs.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Pets (Using classes)/obj/Debug/net5.0/Pets.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Pets (Using classes)/obj/Debug/net5.0/ref/Pets.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Pets (Using classes)/obj/Debug/net5.0/Pets.pdb
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Pets (Using classes)/obj/Debug/net5.0/Pets.genruntimeconfig.cache
