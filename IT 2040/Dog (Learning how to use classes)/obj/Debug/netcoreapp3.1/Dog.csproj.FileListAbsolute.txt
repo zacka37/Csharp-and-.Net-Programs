@@ -1,0 +1,24 @@
+/Users/dalemusser/Documents/Csharp Projects/Dog/bin/Debug/netcoreapp3.1/Dog
+/Users/dalemusser/Documents/Csharp Projects/Dog/bin/Debug/netcoreapp3.1/Dog.deps.json
+/Users/dalemusser/Documents/Csharp Projects/Dog/bin/Debug/netcoreapp3.1/Dog.runtimeconfig.json
+/Users/dalemusser/Documents/Csharp Projects/Dog/bin/Debug/netcoreapp3.1/Dog.runtimeconfig.dev.json
+/Users/dalemusser/Documents/Csharp Projects/Dog/bin/Debug/netcoreapp3.1/Dog.dll
+/Users/dalemusser/Documents/Csharp Projects/Dog/bin/Debug/netcoreapp3.1/Dog.pdb
+/Users/dalemusser/Documents/Csharp Projects/Dog/obj/Debug/netcoreapp3.1/Dog.csprojAssemblyReference.cache
+/Users/dalemusser/Documents/Csharp Projects/Dog/obj/Debug/netcoreapp3.1/Dog.AssemblyInfoInputs.cache
+/Users/dalemusser/Documents/Csharp Projects/Dog/obj/Debug/netcoreapp3.1/Dog.AssemblyInfo.cs
+/Users/dalemusser/Documents/Csharp Projects/Dog/obj/Debug/netcoreapp3.1/Dog.dll
+/Users/dalemusser/Documents/Csharp Projects/Dog/obj/Debug/netcoreapp3.1/Dog.pdb
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Dog (Learning how to use classes)/bin/Debug/netcoreapp3.1/Dog.deps.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Dog (Learning how to use classes)/bin/Debug/netcoreapp3.1/Dog.runtimeconfig.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Dog (Learning how to use classes)/bin/Debug/netcoreapp3.1/Dog.runtimeconfig.dev.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Dog (Learning how to use classes)/bin/Debug/netcoreapp3.1/Dog.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Dog (Learning how to use classes)/bin/Debug/netcoreapp3.1/Dog.pdb
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Dog (Learning how to use classes)/obj/Debug/netcoreapp3.1/Dog.csproj.AssemblyReference.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Dog (Learning how to use classes)/obj/Debug/netcoreapp3.1/Dog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Dog (Learning how to use classes)/obj/Debug/netcoreapp3.1/Dog.AssemblyInfoInputs.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Dog (Learning how to use classes)/obj/Debug/netcoreapp3.1/Dog.AssemblyInfo.cs
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Dog (Learning how to use classes)/obj/Debug/netcoreapp3.1/Dog.csproj.CoreCompileInputs.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Dog (Learning how to use classes)/obj/Debug/netcoreapp3.1/Dog.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Dog (Learning how to use classes)/obj/Debug/netcoreapp3.1/Dog.pdb
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Dog (Learning how to use classes)/obj/Debug/netcoreapp3.1/Dog.genruntimeconfig.cache

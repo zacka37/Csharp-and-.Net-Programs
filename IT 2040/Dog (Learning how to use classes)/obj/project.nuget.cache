@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "i7ztijbNg1ivTZadUd/dYHkEcD0rKrXGURC4ElL+cYppY+hgjL1QPZk2UOhp1V8/lg6LPESkOsRXbrzqc/vsag==",
+  "success": true,
+  "projectFilePath": "/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Dog (Learning how to use classes)/Dog.csproj",
+  "expectedPackageFiles": [
+    "/Users/zackaugustine/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/zackaugustine/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
