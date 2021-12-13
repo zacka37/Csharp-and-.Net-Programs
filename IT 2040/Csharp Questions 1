@@ -1,0 +1,142 @@
+1. Q: What is a namespace?
+A namespace is a name that is used to organize the classes that are in a file. Namespaces can be nested meaning that one namespace can use multiple namespaces.
+S. https://www.c-sharpcorner.com/article/working-with-namespaces-in-C-Sharp/
+
+2. Q: What are value types?
+Value types contain their data, usually connected to a variable. "Value types hold data within its own memory allocation" (https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/data-types/value-types-and-reference-types).
+
+3. Q: What are reference types?
+Reference types store references of data. Reference types do not hold the data, they only reference the data from a value type.
+S. https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/reference-types
+
+4. Q: What is an automatic property and how is it useful?
+An automatic property is used when writing code with the guidelines of Object-oriented Programing. Automatic properties are used so that the programmer does not have to set the Get and Set properties manually. To use automatic properties just set the field to public instead of private and set the Get and Set as properties.
+S. https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/auto-implemented-properties
+S. https://softwareengineering.stackexchange.com/questions/226450/should-i-use-automatic-properties
+
+5. Q: What is the purpose of using statement?
+"Placing code inside a using block disposes the used object or class after the using block is over" http://net-informations.com/q/faq/default.html.
+S. https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-statement
+
+6. Q: What are dynamic type variables?
+The object type dynamic bypasses the static type checking during compile time. If there is a type error, it is cough at run time.
+S. https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/using-type-dynamic
+S. https://www.geeksforgeeks.org/dynamic-type-in-c-sharp/
+
+7. Q: What is the purpose of the is operator?
+The is operator checks if the result is compatible with a certain value type. The is operator return a bool value, ether true or false.
+S. https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/is
+S. https://www.geeksforgeeks.org/c-sharp-is-operator-keyword/
+
+8. Q: What are generics and how is using them useful? Generic is a class which allows value types to be a parameter to methods, classes, and interfaces. A generic is used mainly to avoid runtime type mismatches. "A generic type is declared by specifying a type parameter in an angle brackets after a type name, e.g. TypeName<T> where T is a type parameter" (https://www.tutorialsteacher.com/csharp/csharp-generics).
+S. https://www.geeksforgeeks.org/c-sharp-generics-introduction/
+
+9. Q: What is the scope of a public member of a class?
+A classes variables and member functions belong to that class's scope. Variables and member functions not in a class are defined at file scope. "All members in a Python class are public by default. Any member can be accessed from outside the class environment. "All members in a Python class are public by default. Any member can be accessed from outside the class environment" (https://www.tutorialsteacher.com/python/public-private-protected-modifiers).
+S. https://flylib.com/books/en/2.253.1/class_scope_and_accessing_class_members.html
+
+
+10. Q: Can you create a function that can accept a varying number of arguments?
+Yes, Parameters are used when the programmer wants to give multiple arguments.  Parameters act as variables that your program has already declared outside the function. When a parameter is passed to the method, it is called and argument.
+S. https://forgetcode.com/csharp/463-params-passing-multiple-arguments
+
+11. Q: How do you sort an array?
+If it is a one-dimensional array, then you can use the sort method. After using the sort method you use
+ parameters to specify what you want sorted.
+S. https://docs.microsoft.com/en-us/dotnet/api/system.array.sort?view=net-5.0
+
+12. Q: What is a nullable type and what purpose does it serve?
+The C# compiler will not let you assign a null value to a variable unless you declare type using Nullable<Type here>. A nullable type is used to represent an undefined value. 
+S. https://www.tutorialsteacher.com/csharp/csharp-nullable-types
+
+13. Q: What is an enumeration?
+An enumeration is a value type that allows you to create a set of constants. The keyword Enum is used before the name of the enumeration.
+S. https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/enum
+
+14. Q: What is inheritance?
+A base class (parent) can be inherited from a derived class (child). Inheritance is used when you want to share methods and fields to another class for it to use. To inherit from a class, use the : symbol.
+S. https://www.w3schools.com/cs/cs_inheritance.php
+ 
+15. Q: Is multiple inheritance supported?
+C# does not support multiple inheritance. To bypass this, we use interfaces to achieve multiple class inheritances. The keyword to use is "interface".
+S. https://www.geeksforgeeks.org/c-sharp-multiple-inheritance-using-interfaces/
+
+16. Q: What is the purpose of as operator
+"The as operator is used to convert from one type to another". If the type cannot be converted the value becomes null. The as operator does not show an exception. (https://www.c-sharpcorner.com/uploadfile/mahesh/as-operator-in-C-Sharp/)
+
+17. Q: What is an object?
+An object is created from a class. An object makes instructions easy to repeat because you can assign a name that can be called to perform the object. An object can hold multiline instructions that can be called on so you don't have to re type the same instructions twice.
+S. https://www.w3schools.com/cs/cs_classes.php
+
+18. Q: What is the difference between a struct and a class?
+One key difference is that structures are value types and classes are reference types. "The main difference between structures and classes is that we cannot use a structure as the base of other structures or classes for inheritance" (https://www.delftstack.com/howto/csharp/difference-between-struct-and-class-in-csharp/). Classes can have null data types but structs cannot.
+S.https://www.delftstack.com/howto/csharp/difference-between-struct-and-class-in-csharp/
+
+19. Q: What is the difference between continue and break statements?
+The break statement breaks from the loop from the spot in the code where the statement is at. Continue skips the execution of the current iteration.
+S. https://www.c-sharpcorner.com/UploadFile/efa3cf/break-vs-continue-in-C-Sharp/
+
+20. Q: What is this and how is it used?
+The "this" keyword inside a class or a struct represents the parameter variable name in the class compared to the variable outside the class or struct. The "this" keyword is used to refer to the current instance of the class.
+S. https://www.c-sharpcorner.com/UploadFile/puranindia/this-keyword-in-C-Sharp/
+ 
+21. Q: What is try and catch and when are they used?
+The try catch statement is used to catch exceptions that the code in the try block has. You can have as many catch blocks that you want, which will be used to handle general exceptions.
+S. https://www.c-sharpcorner.com/article/csharp-try-catch/
+
+22. Q: How is exception handling done?
+To catch an exception, you need to have a try catch finally statement that surrounds the code. Catching an exception means that the compiler will not end the program if an exception happens instead, it will run the catch statement. You can declare specific exceptions using the current exception name in the catch parameters.
+S. https://www.c-sharpcorner.com/article/exception-handling-in-C-Sharp/
+
+23. Q: What is finally and what is its purpose?
+The finally block is part of the try catch statement. The finally block will execute after the catch Block no matter if the catch block executes or not. The main purpose of the finally block is to release the system resources.
+S. https://www.geeksforgeeks.org/c-sharp-finally-keyword/#:~:text=It%20is%20a%20reserved%20keyword,to%20release%20the%20system%20resources.
+
+24. Q: List the differences between Array and ArrayList.
+An Array is strongly-typed. We can only store the same type of data in an Array. ArrayList is an object type so it can store multiple types of data. An Array uses brackets to store the data. An ArrayList uses parenthesis to store its data. You can append and remove elements of an ArrayList. An ArrayList can accept null values where Arrays can't accept null values.
+S. https://www.c-sharpcorner.com/article/difference-between-array-and-arraylist-in-c-sharp/
+
+25. Q: What is an object?
+An object is created from a class. An object uses the new keyword to create the object. Objects are used to access the defined properties and methods of the class that it is inside of.
+S. https://www.geeksforgeeks.org/different-ways-to-create-an-object-in-c-sharp/
+
+26. Q: Define constructor.
+"A constructor contains the collection of instructions that are executed at the time of Object creation". A constructor in a class is a member of the class. The Constructor, which is a method, gets executed when a class object is created. A constructor will not contain any return type. A constructor can be called on and is usually the same name as the class that it is in. (https://www.geeksforgeeks.org/c-sharp-constructors/)
+S. https://www.tutlane.com/tutorial/csharp/csharp-constructors-with-examples
+
+27. Q: When can var be used to declare a variable and how is the type for the variable determined?
+The type var is just a placeholder for the type. Var is telling the compiler that the data type is what the value is set to. Declaring a variable as var is useful when the type of value changes as the program runs. You also use Var when you are not sure what data type will be stored in a variable.
+S. https://www.c-sharpcorner.com/UploadFile/5ef30d/var-keyword-in-C-Sharp-programming/
+
+28. Q: What is an abstract class?
+An abstract class is only to be inherited from another class. Abstract classes can't be used to create objects. The "abstract" keyword is used instead of the access modifier in front of the class keyword.
+S. https://www.w3schools.com/cs/cs_abstract.php
+
+29. Q: What is an interface?
+An interface is a collection of properties and method types. An interface can either be declared as public or internal. "An Interface is a type declaration like a class or structure in C#; an Interface itself does not implement members. Interfaces are contract templates in which the contract members are declared."
+S. https://www.codeproject.com/Articles/702293/Interface-based-programming-in-Csharp
+
+30. Q: What is a method?
+A method is a block of code which runs when called. A method contains a series of statements (instructions) inside the code block. A method receives parameters, and these parameters are variables that exist outside the method. Methods are used to reuse code multiple times meaning you can define the code once then call the method multiple times.
+S. https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/methods
+S. https://www.w3schools.com/cs/cs_methods.php
+
+31. Q: What is a property?
+Properties are used to access private variables and to change its value if the programmer wants to. Properties have two methods which are get and set. "A get accessor returns a property value, and a set accessor assigns a new value. The value keyword represents the value of a property" (https://www.c-sharpcorner.com/article/understanding-properties-in-C-Sharp/).
+S. https://www.w3schools.com/cs/cs_properties.php
+
+32. Q: What is an access specifier?
+An access specifier describes the scope of on object and its methods. Access specifiers tell the object if it is to be available to the rest of the program or just within the class it is being declared in.
+S. http://csharp.net-informations.com/language/csharp-access-specifiers.htm#:~:text=Access%20Modifiers%20(%20Access%20Specifiers%20)%20describes,members%20have%20an%20accessibility%20level%20.&text=When%20we%20specify%20the%20accessibility,modifiers%20provided%20by%20C%23%20language.
+
+33. Q: What access specifiers are supported and what do they mean?
+The Public access specifier allows the code to be accessible to all classes using the same namespace.
+The Private access specifier allows the code to be only accessible within the same class. "The protected access specifier allows the code to be accessible within the same class, or in a class that is inherited from that code" (https://www.w3schools.com/cs/cs_access_modifiers.php). The internal access specifier only allows the code to be accessible within its own assembly. The protected internal access specifier can be accessed in the same assembly and be accessed within derived class in another assembly. "The Private Protected access specifier is accessible only to child classes which are in the same assembly, but not to child classes which are outside assembly" (http://csharp.net-informations.com/language/csharp-access-specifiers.htm). 
+
+34. Q: What is a collection?
+Collections are special classes for data storage and retrieval. Collections allow the program to store large amounts of data in a small defined place. Since a collection is a class, you must declare an instance of the class before you can add data to that collection.
+S. https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections
+
+35. Q: What is a Hash Table?
+A hash-table is a collection that stores key-values similar to the dictionary collection. "It optimizes lookups by computing the hash code of each key and stores it in a different bucket internally and then matches the hash code of the specified key at the time of accessing values" (https://www.tutorialsteacher.com/csharp/csharp-hashtable). Values are accessed by passing the key in the index. Hash-table elements are stored as Dictionary Entry objects.
+S. https://www.c-sharpcorner.com/UploadFile/e83792/CSharp-HashTable/

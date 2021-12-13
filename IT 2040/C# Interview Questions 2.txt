@@ -1,0 +1,88 @@
+1. What are the differences between a Class and a Struct?
+
+One key difference is that structures are value types and classes are reference types. "The main difference between structures and classes is that we cannot use a structure as the base of other structures or classes for inheritance" (https://www.delftstack.com/howto/csharp/difference-between-struct-and-class-in-csharp/). Classes can have null data types but structs cannot.
+S.https://www.delftstack.com/howto/csharp/difference-between-struct-and-class-in-csharp/
+
+2. When and where is the finally keyword used?
+
+The finally block is part of the try catch statement. The finally block will execute after the catch Block no matter if the catch block executes or not. The main purpose of the finally block is to release the system resources.
+S. https://www.geeksforgeeks.org/c-sharp-finally-keyword/#:~:text=It%20is%20a%20reserved%20keyword,to%20release%20the%20system%20resource
+
+3. Name some properties of an array.
+
+IsFixedSize Gets a value indicating whether the Array has a fixed size.
+IsReadOnly Gets a value indicating whether the Array is read-only.
+Length Gets a 32-bit integer that represents the total number of elements in all the dimensions of the Array.
+LongLength Gets a 64-bit integer that represents the total number of elements in all the dimensions of the Array.
+S. https://www.tutorialspoint.com/csharp/csharp_array_class.htm
+
+4. What is an escape sequence? Name some String escape sequences.
+
+"Character combinations consisting of a backslash (\) followed by a letter or by a combination of digits are called "escape sequences"(https://docs.microsoft.com/en-us/cpp/c-language/escape-sequences?view=msvc-170). Escape Characters are used to specify actions to happen in the program. Some Escape Sequences are \a (Bell alert), \b (Backspace), and \n for a new line.
+
+5. What are the basic String Operations? Explain.
+
+String in C# is a data type with unicode characters. Some basic String Operations are Clone() which makes a clone of the Sting, Equals() which compares two string and returns Boolean value as output, and GetType() which returns the HashValue of the specified string. All the String Operations listed here are also called Methods.
+
+6. What is the difference between continue and break statements?
+
+The break statement breaks from the loop from the spot in the code where the statement is at. Continue skips the execution of the current iteration.
+S. https://www.c-sharpcorner.com/UploadFile/efa3cf/break-vs-continue-in-C-Sharp/
+
+7. Explain get and set accessor properties.
+
+"The get method returns the value of the variable name. The set method assigns a value to the name variable"(https://www.w3schools.com/cs/cs_properties.php).
+
+8. What is an object?
+
+An object is created from a class. An object uses the new keyword to create the object. Objects are used to access the defined properties and methods of the class that it is inside of.
+S. https://www.geeksforgeeks.org/different-ways-to-create-an-object-in-c-sharp/
+
+9. What is a class?
+
+Classes are part of Object-Oriented Programming. "A class is a user-defined blueprint or prototype from which objects are created. Basically, a class combines the fields and methods(member function which defines actions) into a single unit. In C#, classes support polymorphism, inheritance and also provide the concept of derived classes and base classes"(https://www.geeksforgeeks.org/c-sharp-class-and-object/#:~:text=A%20class%20is%20a%20user,derived%20classes%20and%20base%20classes.).
+
+10. Can we use "this" command within a static method?
+
+No, we can not use "this" keyword inside a static method. "This" refers to a current instance of the class. If we use "this" keyword in a static method then the class instance will not have access to it.
+
+11. What is the difference between "method overriding" and "method overloading?"
+
+Method overriding is when there is more than one method or function that has the same name but different parameters in the same class. "The compiler automatically calls the required method or the function by checking number of parameters and their type, which are passed into that method"(https://www.c-sharpcorner.com/blogs/difference-between-method-overloading-and-method-overriding). Creating a method in the derived class with same signature as a method in the base class is called method overriding. "We can override a method in the base class by creating similar function in the derived class. This can be achieved by using inheritance and using virtual & override"(https://www.c-sharpcorner.com/blogs/difference-between-method-overloading-and-method-overriding).
+
+12. What are the differences between static, public and void?
+
+Public means that other objects can access it. Static means that the class in which it resides doesn't have to be instantiated first before the function can be called. Void means that the function does not return any value.
+
+13. What are value types?
+
+Value types contain their data, usually connected to a variable. "Value types hold data within its own memory allocation" (https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/data-types/value-types-and-reference-types).
+
+14. What are reference types?
+
+Reference types store references of data. Reference types do not hold the data, they only reference the data from a value type.
+S. https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/reference-types
+
+15. If a return is provided in a try block, does the finally block execute?
+
+Yes, the finally block will be executed even if a return is executed. The finally block will always execute even if an exception occurs.
+
+16. How do you sort array elements in descending order?
+
+You sort array elements in descending order by using the Reverse() method.
+
+17. What is the difference between the "as" and "is" operators?
+
+"The is operator returns true if the given object is of the same type whereas as operator returns the object when they are compatible with the given type"(https://www.geeksforgeeks.org/is-vs-as-operator-keyword-in-c-sharp/#:~:text=The%20difference%20between%20is%20and%20as%20operators%20are%20as%20follows%3A&text=The%20is%20operator%20returns%20true,compatible%20with%20the%20given%20type.).
+
+18. What is enum?
+An enumeration is a value type that allows you to create a set of constants. The keyword Enum is used before the name of the enumeration.
+S. https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/enum
+
+19. What is the difference between an interface and an abstract class ?
+
+An abstract class allows you to create functionality that subclasses can implement or override. An interface only allows you to define functionality, not implement it. And whereas a class can extend only one abstract class, it can take advantage of multiple interfaces"(https://www.infoworld.com/article/2928719/when-to-use-an-abstract-class-vs-interface-in-csharp.html#:~:text=The%20short%20answer%3A%20An%20abstract,take%20advantage%20of%20multiple%20interfaces.).
+
+20. What are partial classes?
+
+Partial classes are special to C# meaning that no other language supports that. "Partial classes allow the functionality of a single class into multiple files and all these files are combined into a single class file when the application is compiled. A partial class is created by using a partial keyword"(https://www.geeksforgeeks.org/partial-classes-in-c-sharp/).
