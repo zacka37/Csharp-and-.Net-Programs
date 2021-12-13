@@ -1,0 +1,30 @@
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Csharp Basics/bin/Debug/net5.0/Csharp Basics.deps.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Csharp Basics/bin/Debug/net5.0/Csharp Basics.runtimeconfig.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Csharp Basics/bin/Debug/net5.0/Csharp Basics.runtimeconfig.dev.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Csharp Basics/bin/Debug/net5.0/Csharp Basics.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Csharp Basics/bin/Debug/net5.0/ref/Csharp Basics.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Csharp Basics/bin/Debug/net5.0/Csharp Basics.pdb
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Csharp Basics/obj/Debug/net5.0/Csharp Basics.csproj.AssemblyReference.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Csharp Basics/obj/Debug/net5.0/Csharp Basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Csharp Basics/obj/Debug/net5.0/Csharp Basics.AssemblyInfoInputs.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Csharp Basics/obj/Debug/net5.0/Csharp Basics.AssemblyInfo.cs
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Csharp Basics/obj/Debug/net5.0/Csharp Basics.csproj.CoreCompileInputs.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Csharp Basics/obj/Debug/net5.0/Csharp Basics.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Csharp Basics/obj/Debug/net5.0/ref/Csharp Basics.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Csharp Basics/obj/Debug/net5.0/Csharp Basics.pdb
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/Csharp Basics/obj/Debug/net5.0/Csharp Basics.genruntimeconfig.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Csharp Basics (Play)/Csharp Basics/bin/Debug/net5.0/Csharp Basics.deps.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Csharp Basics (Play)/Csharp Basics/bin/Debug/net5.0/Csharp Basics.runtimeconfig.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Csharp Basics (Play)/Csharp Basics/bin/Debug/net5.0/Csharp Basics.runtimeconfig.dev.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Csharp Basics (Play)/Csharp Basics/bin/Debug/net5.0/Csharp Basics.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Csharp Basics (Play)/Csharp Basics/bin/Debug/net5.0/ref/Csharp Basics.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Csharp Basics (Play)/Csharp Basics/bin/Debug/net5.0/Csharp Basics.pdb
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Csharp Basics (Play)/Csharp Basics/obj/Debug/net5.0/Csharp Basics.csproj.AssemblyReference.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Csharp Basics (Play)/Csharp Basics/obj/Debug/net5.0/Csharp Basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Csharp Basics (Play)/Csharp Basics/obj/Debug/net5.0/Csharp Basics.AssemblyInfoInputs.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Csharp Basics (Play)/Csharp Basics/obj/Debug/net5.0/Csharp Basics.AssemblyInfo.cs
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Csharp Basics (Play)/Csharp Basics/obj/Debug/net5.0/Csharp Basics.csproj.CoreCompileInputs.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Csharp Basics (Play)/Csharp Basics/obj/Debug/net5.0/Csharp Basics.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Csharp Basics (Play)/Csharp Basics/obj/Debug/net5.0/ref/Csharp Basics.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Csharp Basics (Play)/Csharp Basics/obj/Debug/net5.0/Csharp Basics.pdb
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/Csharp Basics (Play)/Csharp Basics/obj/Debug/net5.0/Csharp Basics.genruntimeconfig.cache
