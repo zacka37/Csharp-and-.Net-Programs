@@ -1,0 +1,30 @@
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/MidtermProject/bin/Debug/net5.0/MidtermProject.deps.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/MidtermProject/bin/Debug/net5.0/MidtermProject.runtimeconfig.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/MidtermProject/bin/Debug/net5.0/MidtermProject.runtimeconfig.dev.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/MidtermProject/bin/Debug/net5.0/MidtermProject.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/MidtermProject/bin/Debug/net5.0/ref/MidtermProject.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/MidtermProject/bin/Debug/net5.0/MidtermProject.pdb
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/MidtermProject/obj/Debug/net5.0/MidtermProject.csproj.AssemblyReference.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/MidtermProject/obj/Debug/net5.0/MidtermProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/MidtermProject/obj/Debug/net5.0/MidtermProject.AssemblyInfoInputs.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/MidtermProject/obj/Debug/net5.0/MidtermProject.AssemblyInfo.cs
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/MidtermProject/obj/Debug/net5.0/MidtermProject.csproj.CoreCompileInputs.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/MidtermProject/obj/Debug/net5.0/MidtermProject.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/MidtermProject/obj/Debug/net5.0/ref/MidtermProject.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/MidtermProject/obj/Debug/net5.0/MidtermProject.pdb
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040/MidtermProject/obj/Debug/net5.0/MidtermProject.genruntimeconfig.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/MidtermProject/bin/Debug/net5.0/MidtermProject.deps.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/MidtermProject/bin/Debug/net5.0/MidtermProject.runtimeconfig.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/MidtermProject/bin/Debug/net5.0/MidtermProject.runtimeconfig.dev.json
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/MidtermProject/bin/Debug/net5.0/MidtermProject.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/MidtermProject/bin/Debug/net5.0/ref/MidtermProject.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/MidtermProject/bin/Debug/net5.0/MidtermProject.pdb
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/MidtermProject/obj/Debug/net5.0/MidtermProject.csproj.AssemblyReference.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/MidtermProject/obj/Debug/net5.0/MidtermProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/MidtermProject/obj/Debug/net5.0/MidtermProject.AssemblyInfoInputs.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/MidtermProject/obj/Debug/net5.0/MidtermProject.AssemblyInfo.cs
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/MidtermProject/obj/Debug/net5.0/MidtermProject.csproj.CoreCompileInputs.cache
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/MidtermProject/obj/Debug/net5.0/MidtermProject.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/MidtermProject/obj/Debug/net5.0/ref/MidtermProject.dll
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/MidtermProject/obj/Debug/net5.0/MidtermProject.pdb
+/Users/zackaugustine/Desktop/Mizzou/MU semsester 3/Programing 2040 GitHub/MidtermProject/obj/Debug/net5.0/MidtermProject.genruntimeconfig.cache
