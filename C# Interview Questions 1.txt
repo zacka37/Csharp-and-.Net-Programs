@@ -1,0 +1,62 @@
+1. What is C#?
+C# is a modern, object-oriented, and type-safe programming language created by Microsoft that uses the .NET framework. C# was created to adopt the best features from Java and c++.
+
+2. What is .NET Core?
+.Net Core is a free and open-source, managed computer software framework. ".NET Core provides a standard base library that can now be used across Windows, Linux, macOS, and mobile devices (via Xamarin)..NET Core is used to create server applications that run on Windows, Linux and Mac. It does not currently support creating desktop applications with a user interface"(https://stackify.com/net-core-vs-net-framework/). The main difference between .NET Core and .NET is that .NET Core is cross-platform compatible meaning It can run on many OS's than just Windows.
+
+3. What is a class, what is an object, and how are they related?
+An object is created from a class. An object makes instructions easy to repeat because you can assign a name that can be called to perform the object. An object can hold multiline instructions that can be called on so you don't have to re type the same instructions twice. A class in C# is similar to a blueprint which objects are created from. A class combines fields and methods into a single unit called a class."In c#, Classes and Objects are interrelated. The class in c# is nothing but a collection of various data members (fields, properties, etc.) and member functions. The object in c# is an instance of a class to access the defined properties and methods"(https://www.tutlane.com/tutorial/csharp/csharp-classes-and-objects-with-examples#:~:text=In%20c%23%2C%20Classes%20and%20Objects,the%20defined%20properties%20and%20methods.).
+
+4. What is the difference between a class and a struct?
+One key difference is that structures are value types and classes are reference types. "The main difference between structures and classes is that we cannot use a structure as the base of other structures or classes for inheritance" (https://www.delftstack.com/howto/csharp/difference-between-struct-and-class-in-csharp/). Classes can have null data types but structs cannot. A structure can not derive/inherit from any structure or class.
+
+5. What is an enum and when should it be used?
+An enumeration is a value type that allows you to create a set/ list of constants to a single group. The keyword Enum is used before the name of the enumeration. An enum should be used when you have multiple items that can correspond to a group. "Enums improve readability for example weekDay.Monday is more understood as just the number 0 when referring to the days of the week"(https://www.tutorialsteacher.com/csharp/csharp-enum).
+
+6. What is the difference between break and continue?
+The break statement breaks from the loop from the spot in the code where the statement is at. Continue skips the execution of the current iteration.
+
+7. Can "this" be used with a static method?
+In C#, "this" can not be used with a static method because static methods do no need any objects to be called. The 'this" keyword points to an object or the current instance of a class but static methods do not need an abject to be called. 
+
+8. What is the difference between string and StringBuilder in C#?
+"String is immutable meaning that if you create a string object then you cannot modify it. A StringBuilder is mutable meaning that if you create a string builder object then you can perform any operation like insert, replace, or append without creating a new instance for every time"(https://www.c-sharpcorner.com/blogs/difference-between-string-and-stringbuilder-in-c-sharp1).
+
+9. What are properties?
+Properties are used to access private variables and to change its value if the programmer wants to. Properties have two methods which are get and set. Properties enable a class to expose a public way of getting and setting values "A get accessor returns a property value, and a set accessor assigns a new value. The value keyword represents the value of a property" (https://www.c-sharpcorner.com/article/understanding-properties-in-C-Sharp/).
+
+10. What are value types in C#? Provide one example value type in C#.
+Value types contain their data, usually connected to a variable. Value types hold data within its own memory allocation. One example of a value type is a bool that represents a boolean value.
+
+11. What are reference types in C#? Provide one example of a reference type in C#.
+Reference types store references of data. Reference types do not hold the data, they only reference the data from a value type. One example of a reference type is a string type.
+
+12. What is encapsulation?
+Encapsulation is an object's ability to hide data and behavior that are not necessary to the user. Encapsulation is one of the four principles of object-oriented programming. Microsoft defines Encapsulation as " Hiding the internal state and functionality of an object and only allowing access through a public set of functions"(https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop). Two examples of encapsulation for a class are using the "public" keyword to make the class available to other parts of the program and "private" which is hidden from other parts of the program.
+
+13. What are nullable types?
+The C# compiler will not let you assign a null value to a variable unless you declare type using Nullable<Type here>. A nullable type is used to represent an undefined value. 
+
+14. What is a namespace?
+A namespace is a name that is used to organize the classes that are in a file. Namespaces can be nested meaning that one namespace can use multiple namespaces.
+
+15. What is the purpose of the "using" statement?
+"Placing code inside a using block disposes the used object or class after the using block is over" http://net-informations.com/q/faq/default.html. The using statement also allows you to specify multiple resources in a single statement.
+
+16. What is a constructor?  When is it called?
+"A constructor contains the collection of instructions that are executed at the time of Object creation". A constructor in a class is a member of the class. The Constructor, which is a method, gets executed or called when a class object is created. A constructor will not contain any return type. A constructor can be called on and is usually the same name as the class that it is in. (https://www.geeksforgeeks.org/c-sharp-constructors/)
+
+17. Does C# support the functional programming paradigm? Provide some details in addition to yes/no.
+"C# is an object-oriented language at its core, it also has a lot of features that can be used with functional programming techniques"(https://www.dotnetcurry.com/csharp/1384/functional-programming-fsharp-for-csharp-developers). Yes, C# does support Functional programming. Functional Programing is when the program uses multiple functions throughout the script avoiding the use of mutable data. 
+
+18. Explain the static keyword.
+The static keyword implies that there is only one instance of a member per class. You can declare static classes, static class members and static variables. "The static classes and static class members such as constructors, fields, properties, methods, and events are useful when only one copy of the object (class or class members) are needed and shared among all instances (objects) of a type (and members)"(https://www.c-sharpcorner.com/UploadFile/36bc15/static-keyword-in-C-Sharp/).
+
+19. How is exception handling done in C#?
+To catch an exception, you need to have a try catch finally statement that surrounds the code. Catching an exception means that the compiler will not end the program if an exception happens instead, it will run the catch statement. You can declare specific exceptions using the current exception name in the catch parameters.
+
+20. What is LINQ and how/when is it used?
+LINQ works with data access from sources such as objects and XML. LINQ allows you to query and modify any type of data. You use LINQ by creating query expressions which has its own syntax. "By using query syntax, you can perform filtering, ordering, and grouping operations on data sources with a minimum  amount of code"(https://docs.microsoft.com/en-us/dotnet/csharp/linq/). An example of a LINQ query syntax is, from score in scores where scores > 80 select scores.
+
+21. What is the difference between “as” and “is” operators in C#?
+In C#, "is" operation is used to check the type of an object which returns the result as a boolean. The "as" operation is used for casting of an object to a given type or a class. "The is operator is used to check if the run-time type of an object is compatible with the given type or not, whereas the as operator is used to perform conversion between compatible reference types or nullable types" (https://www.pluralsight.com/guides/csharp-is-as-operators-is-expressions).
